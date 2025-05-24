@@ -1,0 +1,24 @@
+			WELCOME TO GRILL IN !
+
+			****MENU CARD****
+
+
+      Veg Soup:-                      Starters:-             
+|Items:              Price: |   |Items:             Price:  |
+|1.Tomatoe Soup      Rs.70/-|   |4.Veg Manchurian   Rs.150/-|
+|2.Spinach Soup      Rs.80/-|   |5.Veg Pattice      Rs.195/-|
+|3.Hot & Sour Soup   Rs.90/-|   |6.Veg Roll         Rs.170/-|
+
+
+      Indian Breads:-                 Vegetables:-           
+|Items:              Price: |   |Items:             Price:  |
+|7.Simple Chapati    Rs.20/-|   |10.Butter Paneer   Rs.400/-|
+|8.Garlic Naan       Rs.30/-|   |11.Special Kofta   Rs.350/-|
+|9.Simple Naan       Rs.25/-|   |12.Dal fry         Rs.300/-|
+
+
+      Rice:-                          Deserts:-              
+|Items:              Price: |    |Items:             Price: |
+|13.Jeera Rice       Rs.70/-|    |16.Raso Gulla      Rs.50/-|
+|14.Lemon Rice       Rs.85/-|    |17.Raas malai      Rs.70/-|
+|15.Manchurian Rice  Rs.90/-|    |18.Gulab jamun     Rs.40/-|

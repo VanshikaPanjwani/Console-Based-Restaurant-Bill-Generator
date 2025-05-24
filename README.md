@@ -13,7 +13,7 @@ This project simulates a basic food ordering and billing system designed for res
 
 ## 🚀 Features
 
-* 🔐 **User Authentication** – Signup and Login functionality
+* 🔐 Basic Signup and Login functionality
 * 📋 **Menu Display** – Reads and displays the food menu from a text file
 * 🛒 **Order Management** – Takes multiple dish orders with quantity and serial input
 * 🧾 **Bill Generation** – Calculates total cost including GST and prints a formatted bill
@@ -22,7 +22,7 @@ This project simulates a basic food ordering and billing system designed for res
 
 ## 🛠️ How It Works
 
-1. **Authentication**:
+1. **Login/Signup**:
    The user either signs up with a username and password or logs in using existing credentials.
 
 2. **Viewing Menu**:
